@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:RESOLUTION=640x360,BANDWIDTH=662200,CODECS="avc1.4d401f,mp4a.40.2",AVERAGE-BANDWIDTH=662200,FRAME-RATE=25
+https://mako-streaming.akamaized.net/stream/hls/live/20000821/k12makowad/profile/0/hdntl=exp=1791312707~acl=%2f*~data=hdntl~hmac=2257d13a833af8bf317d5e2892febdfd7be6f1f8acf53548784729e9b6150701/profileManifest.m3u8?_uid=f95d5a70-f09a-47f8-aa19-a92093916938&rK=b3&_did=de02fd99-718c-6302-9636-894ca07b4b21
